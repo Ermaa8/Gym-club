@@ -119,6 +119,7 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: rgb(238,232,170);
 }
 
 #social-networks i {
@@ -159,6 +160,17 @@ main {
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
+    }
+
+    /* Reasons section */
+    #benefits-psysical {
+        display: flex;
+        flex-direction: column;
+        width: 100%; 
+    }
+
+    #benefits-psysical > div {
+        width: 75%;
     }
 }
 

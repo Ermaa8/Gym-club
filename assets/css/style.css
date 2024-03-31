@@ -23,6 +23,10 @@ header {
     background-color: beige;
 }
 
+h1 {
+    font-family: 'Redit+Mono', sans-serif;
+}
+
 /* Main content */
 main {
     background-color: darkcyan;

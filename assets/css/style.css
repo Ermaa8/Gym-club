@@ -188,9 +188,16 @@ main {
     padding: 0 20px;
 }
 
-hr {
+#benefits hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
+}
+
+#circle-cover-bg {
+    background: url('../images/Gym 1 (2).webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
 }
 
 /* Large devices (laptops and desktops, 992px and up) */

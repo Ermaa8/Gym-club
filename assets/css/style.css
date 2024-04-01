@@ -25,6 +25,10 @@ h1, h2, h3 {
     color: #252525;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: beige;
@@ -126,6 +130,24 @@ main {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+#times {
+    background: url('../images/gympicture.webp') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgb(238,232,170);
+    padding: 15px;
+}
+
+#times h3 {
+    /* Overide the heading colour set in general styles */
+    color:#fafafa;
 }
 
 

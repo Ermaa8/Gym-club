@@ -6,7 +6,7 @@ Gym Club is a modern gym in the center of Stockholm. The gym is equipped with th
 ## Site Owner Goals 
 - To provide the user with information about the benefits of exercise and physical activity, with a particular focus on body movements.
 - To present the user with a website that is easy to navigate, fully responsive and evokes a feeling of through the use of appropriate colors and images.
--To make the club's members feel good and want to come to a pleasant and active environment where you can feel motivated.
+- To make the club's members feel good and want to come to a pleasant and active environment where you can feel motivated.
 
 ## User Stories
 - ### First time user

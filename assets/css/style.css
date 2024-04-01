@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: black;
     font-family: 'Redit+Mono', sans-serif;
 }
 
@@ -22,7 +22,7 @@ h1, h2, h3 {
     font-family: 'Redit+Mono', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: rgb(185, 25, 25);
 }
 
 .hidden-heading {
@@ -31,7 +31,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
-    background-color: beige;
+    background-color: darkslategray;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -63,7 +63,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: burlywood;
+    background-color: rgb(185, 25, 25);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -90,6 +90,7 @@ main {
      /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;  
     margin-top: 47px;
+    background-color: darkslategrey;
 }
 
 /* Main content */
@@ -171,7 +172,7 @@ main {
 
     .join-button:hover {
         background-color: #fafafa;
-        color: #454b1b;
+        color: rgb(185, 25, 25);
     }
 }
 
@@ -179,13 +180,13 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url('../images/hero image.webp') no-repeat center center/cover;
+    background: url('../images/heroimage.webp') no-repeat center center/cover;
     position: relative;
 }
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgb(238,232,170);
+    background-color: darkslategrey;
     font-size: 130%;
     position: absolute;
     bottom: 30px;
@@ -195,9 +196,20 @@ main {
     padding-left: 10px;
 }
 #cover text > h2, #cover-text > h3 {
-    color: #3a3a3a;
+    color: rgb(185, 25, 25);
 }
 
+/* Opening times sesion */
+#times {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: black;
+    padding: 15px;
+    text-align: center;
+}
 
 /* Footer */
 #social-networks {
@@ -206,31 +218,24 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: rgb(238,232,170);
+    background-color: black;
 }
 
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
-}
-
-#times {
-    background: url('../images/gympicture.webp') no-repeat center/cover;
-    /* Handles responsivity without the need for a media query */
-    display: flex;
-    flex-wrap: wrap;
+    color: rgb(185, 25, 25);
 }
 
 #times div {
-    color: #fafafa;
-    background-color: rgb(238,232,170);
+    color: black;
+    background-color: black;
     padding: 15px;
 }
 
 #times h3 {
     /* Overide the heading colour set in general styles */
-    color:#fafafa;
+    color: black;
 }
 
 
@@ -303,18 +308,23 @@ main {
 
 #benefits p {
     padding: 0 20px;
+    color: black;
 }
 
 #benefits hr {
-    border-top: 1px solid #3a3a3a;
+    border-top: 1px solid black;
     margin: 5px 0;
 }
 
 #circle-cover-bg {
-    background: url('../images/Gym 1.webp') no-repeat top center / cover;
+    background: url('../images/circlepic.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
+    /* Makes the square image into a circle*/
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 /* Large devices (laptops and desktops, 992px and up) */

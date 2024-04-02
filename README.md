@@ -8,12 +8,33 @@ Gym Club is a modern gym in the center of Stockholm. The gym is equipped with th
 - To present the user with a website that is easy to navigate, fully responsive and evokes a feeling of through the use of appropriate colors and images.
 - To make the club's members feel good and want to come to a pleasant and active environment where you can feel motivated.
 
-## User Stories
-- ### First time user
-  - As a first time user I want to understand how to achive fitness goals.
-  - As a first time user I want to be able to understand content on this site.
-  - As a first time user I want to be member of this gym and I want to get extra motivation.
-  
+## Design
+
+### Imagery
+The imagery used on the Gym Club site  crucial for users of the site. A dark theme is used on this site, as well as pictures of the gym. This adds a little bit of mistery which can motivate people to to even better in the gym. The site shows pictures of the gym and studies shows that working out in the dark allows us to conect our body even more and it motivate us to be more effective. 
+
+### Colours
+The colour scheme of the website is dark green colours followed with red letters to make a text and social networks pop up even more. 
+
+### Fonts
+The Redit+Mono font is the main font used on this website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font just in case Redit+Mono is not imported well.
+
+## Wireframes
+
+## Features
+- ### Navigation
+
+    - The fully responsive navigation bar includes links to the Logo, Home, Gallery, Sign Up.
+    - The navigation section allows users to easly navigate throught a website without need to scroll up and down.
+
+
+    
+
+    ![Nav bar image](assets/images/heroimage.webp)
+    
+ 
+    
+
 
 
 

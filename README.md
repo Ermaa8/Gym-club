@@ -88,6 +88,16 @@ The Redit+Mono font is the main font used on this website. This font was importe
 ### Fixed Bugs
 -
 
+## Technologies
+
+### Languages
+- HTML5
+- CSS
+
+
+### Frameworks - Sites - Programs 
+- [Am I Responsive](https://ui.dev/amiresponsive)- Uset to make site visible on different devices.
+
 
 
 

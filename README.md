@@ -20,6 +20,20 @@ The colour scheme of the website is dark colour followed with red letters to mak
 The Redit+Mono font is the main font used on this website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font just in case Redit+Mono is not imported well.
 
 ## Wireframes
+- Wireframes were used using Balsamiq.
+<details>
+
+ <summary>Desktop Wireframe</summary>
+
+![Desktop Wireframe](assets/screenshots/wireframedesktop.webp)
+ </details>
+
+ <details>
+    <summary>Mobile Wireframe</summary>
+
+![Mobile Wireframe]()
+ </details>
+
 
 ## Features
 - ### Navigation

@@ -97,8 +97,26 @@ The Redit+Mono font is the main font used on this website. This font was importe
 
 ### Frameworks - Sites - Programs 
 - [Am I Responsive](https://ui.dev/amiresponsive)- Uset to make site visible on different devices.
+- [GitHub](https://github.com/)- Github is used to test every change.
+- [GoogleFonts](https://fonts.google.com/)- Used to add additional style to text.
+- [TinyPNG](https://tinypng.com/)- Used to adjust a pictures.
+- [W3C](https://tinypng.com/)- Used to tst HTML and CSS code.
+- [Balsamic](https://balsamiq.cloud/stzqsdg/p47bneq/r2A03)- Used to make wireframes.
+- [FontAwesome](https://fontawesome.com/)- Used to add icons to footer.
+
+## Deployment
+
+The project was deployed using GitHub pages. The steps for this part are listed bellow:
+
+1. Open a GitHub.com
+2. Select 'Settings' on right corener.
+3. Select 'Pages' from the menu bar on the left of the page.
+4. Open dropdown menu and select the main branch.
+5. Once selected, click the 'Save'.
+6. Deployment should be confirmed and clickable.
 
 
+The live link can be found here : [Gym Club](https://ermaa8.github.io/Gym-club/)
 
 
 

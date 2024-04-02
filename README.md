@@ -49,8 +49,38 @@ The Redit+Mono font is the main font used on this website. This font was importe
     
 ![Opening section image](assets/images/openingtimes.webp)
 
-- ### Opening Section
-    - 
+- ### Footer Section
+    - In this section users can find links to social media of the website.
+    - Social networks that shows in this section are Facebook, Instagram, Twitter and YouTube.
+
+![Social Media section image](assets/images/socialmedia.webp)
+
+- ### Gallery Section
+    - In this section users can find pictures of our gym.
+
+![Gallery Section images](assets/images/Gym1.webp)
+![Gallery Section images](assets/images/Gym2.webp)
+![Gallery Section images](assets/images/dressroom(1).jpg)
+
+- ### Sign Up Section
+
+
+## Testing
+
+### Validator Testing
+- #### HTML
+    - No errors were returned when passing through the W3.org validator.
+    - [W3C Validator Results](https://Ermaa8.github.io/Gym-club/index.html)
+
+
+
+
+
+    
+
+
+
+
     
   
 

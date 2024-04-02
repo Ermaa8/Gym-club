@@ -1,7 +1,7 @@
 # Gym Club
 Gym Club is a modern gym in the center of Stockholm. The gym is equipped with the latest equipment for maintaining fitness as well as strength training. On our website you can find information on why it is good to maintain your fitness and a healthy lifestyle. This gym can provide you with additional services such as sessions with personal trainers who have years of experience behind them. The goal of this site is to motivate people to lead a better and more active lifestyle.
 
-![Gym Club Am I Responsive Image](assets/images/readmebild.webp)
+![Gym Club Am I Responsive Image](assets/screenshots/readmebild.png)
 
 ## Site Owner Goals 
 - To provide the user with information about the benefits of exercise and physical activity, with a particular focus on body movements.
@@ -28,32 +28,32 @@ The Redit+Mono font is the main font used on this website. This font was importe
     - The navigation section allows users to easly navigate throught a website without need to scroll up and down.
 
 
-![Nav bar image](assets/images/navbar.webp)
+![Nav bar image](assets/)
 
 - ### The Landing Page Image
     - The landing page includes an first impresion image with the eye-catching information.
     - This section provides the user representation of the purpose of the site.
 
 
-![Landing page image](assets/images/landingpage.webp) 
+![Landing page image](assets/) 
 
 - ### Why Section
     - The Why Section gives a brief description of why moving our body is good for overal health. 
     - Behind Why Section is small cirkular picture of motivational words.
     - This section will show users what they can expect on this website, as well as additional sevices in the gym.
 
-![Why section image](assets/images/whysection.webp)
+![Why section image](assets/)
 
 - ### Opening Section
     - This section contains opening times at weekdays and opening times on weekend.
     
-![Opening section image](assets/images/openingtimes.webp)
+![Opening section image](assets/)
 
 - ### Footer Section
     - In this section users can find links to social media of the website.
     - Social networks that shows in this section are Facebook, Instagram, Twitter and YouTube.
 
-![Social Media section image](assets/images/socialmedia.webp)
+![Social Media section image](assets/)
 
 - ### Gallery Section
     - In this section users can find pictures of our gym.

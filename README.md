@@ -74,7 +74,8 @@ The Redit+Mono font is the main font used on this website. This font was importe
 
 - #### CSS
     - No errors were returned when passing through the W3.org validator.
-    - [W3C Validator Results](https://validator.w3.org/nu/#textarea)
+    - [W3C Validator Results](https://jigsaw.w3.org/css-validator/validator)
+    
 
 
 

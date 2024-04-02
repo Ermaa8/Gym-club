@@ -72,6 +72,9 @@ The Redit+Mono font is the main font used on this website. This font was importe
     - No errors were returned when passing through the W3.org validator.
     - [W3C Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2FErmaa8.github.io%2FGym-club%2Findex.html)
 
+- #### CSS
+    - No errors were returned when passing through the W3.org validator.
+    - [W3C Validator Results](https://validator.w3.org/nu/#textarea)
 
 
 

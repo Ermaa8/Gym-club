@@ -28,7 +28,7 @@ The Redit+Mono font is the main font used on this website. This font was importe
     - The navigation section allows users to easly navigate throught a website without need to scroll up and down.
 
 
-![Nav bar image](assets/)
+![Nav bar image](assets/screenshots/navbar.webp)
 
 - ### The Landing Page Image
     - The landing page includes an first impresion image with the eye-catching information.

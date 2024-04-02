@@ -35,25 +35,25 @@ The Redit+Mono font is the main font used on this website. This font was importe
     - This section provides the user representation of the purpose of the site.
 
 
-![Landing page image](assets/) 
+![Landing page image](assets/screenshots/landingpage.png)
 
 - ### Why Section
     - The Why Section gives a brief description of why moving our body is good for overal health. 
     - Behind Why Section is small cirkular picture of motivational words.
     - This section will show users what they can expect on this website, as well as additional sevices in the gym.
 
-![Why section image](assets/)
+![Why section image](assets/screenshots/whysection.png)
 
 - ### Opening Section
     - This section contains opening times at weekdays and opening times on weekend.
     
-![Opening section image](assets/)
+![Opening section image](assets/screenshots/opening.webp)
 
 - ### Footer Section
     - In this section users can find links to social media of the website.
     - Social networks that shows in this section are Facebook, Instagram, Twitter and YouTube.
 
-![Social Media section image](assets/)
+![Social Media section image](assets/screenshots/social.png)
 
 - ### Gallery Section
     - In this section users can find pictures of our gym.
@@ -117,6 +117,25 @@ The project was deployed using GitHub pages. The steps for this part are listed 
 
 
 The live link can be found here : [Gym Club](https://ermaa8.github.io/Gym-club/)
+
+## Credits
+
+### Content
+- All content and pictures are used from the following sites.
+- [Text](https://www.wellandgood.com/working-out-in-the-dark/)
+- [Feel strong P](https://www.mensjournal.com/health-fitness/10-strength-building-strategies)
+- [Feel healthy P](https://medium.com/@muriithi2222/the-benefits-of-going-to-the-gym-a-pathway-to-a-healthy-lifestyle-444de13892a8)
+- [Hero image](https://pngtree.com/freebackground/fitness-equipment-and-black-dumbbells-in-3d-rendering-of-a-dark-workout-room_4839926.html)
+- [Picture one](https://www.bakerlabels.co.uk/bakers-gym/)
+- [Picture two](https://www.google.com/search?q=dark+gym&client=firefox-b-d&sca_esv=a793da27159ce01a&udm=2&biw=1280&bih=587&ei=iCgJZoy4EPyrkdUPh4qc0AY&ved=0ahUKEwiMnOX1k56FAxX8VaQEHQcFB2oQ4dUDCBA&uact=5&oq=dark+gym&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGRhcmsgZ3ltMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTSNYbUNEDWO0YcAJ4AJABAJgBcqABvgaqAQMyLja4AQPIAQD4AQGYAgmgAtEHqAIAwgIGEAAYCBgewgIFEAAYgATCAgoQABiABBiKBRhDwgIEEAAYHpgDBIgGAZIHAzEuOKAHziQ&sclient=gws-wiz-serp#vhid=hG0bdwks8TxmCM&vssid=mosaic)
+- [Picture three](https://www.google.com/search?q=gym+changing+room+dark&client=firefox-b-d&sca_esv=a793da27159ce01a&udm=2&biw=1280&bih=587&sxsrf=ACQVn0-Fy1q3oGRC6Nkrq0STYt8-iSBYhQ%3A1712070213837&ei=RR4MZovhMrahkdUP0fWD4AQ&ved=0ahUKEwjLl7TH5qOFAxW2UKQEHdH6AEwQ4dUDCBA&uact=5&oq=gym+changing+room+dark&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmd5bSBjaGFuZ2luZyByb29tIGRhcmtIxAxQmwRY2AhwAXgAkAEAmAFooAHrA6oBAzMuMrgBA8gBAPgBAZgCA6AC4wHCAgcQABiABBgTwgIIEAAYBxgeGBPCAggQABgFGB4YE5gDAIgGAZIHAzEuMqAH9Qk&sclient=gws-wiz-serp#vhid=UNMfOx1ml0fEyM&vssid=mosaic)
+
+## Acknowledgments
+My mentor Antonio for support and help.
+
+The Code Institute slack community for all previous examples and solutions!
+
+
 
 
 

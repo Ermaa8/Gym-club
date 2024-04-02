@@ -74,8 +74,24 @@ The Redit+Mono font is the main font used on this website. This font was importe
 
 - #### CSS
     - No errors were returned when passing through the W3.org validator.
-    - [W3C Validator Results](https://jigsaw.w3.org/css-validator/validator)
-    
+    - [W3C Validator Results]
+
+- #### Accessibility 
+
+
+### Testing
+- Form testing has been has been tested to make sure it will not submit withous properly added data(name,surname and e-mail adress). 
+-All links were tested manually to meke sure the user is directed to correct part of the website.
+-Social media links were tested manually as well to be sure user will be directed to correct social media.
+-Website was tested on diferent browsers with no issues.
+
+### Fixed Bugs
+-
+
+
+
+
+
 
 
 

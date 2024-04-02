@@ -28,9 +28,46 @@ The Redit+Mono font is the main font used on this website. This font was importe
     - The navigation section allows users to easly navigate throught a website without need to scroll up and down.
 
 
+![Nav bar image](assets/images/navbar.webp)
+
+- ### The Landing Page Image
+    - The landing page includes an first impresion image with the eye-catching information.
+    - This section provides the user representation of the purpose of the site.
+
+
+![Landing page image](assets/images/landingpage.webp) 
+
+- ### Why Section
+    - The Why Section gives a brief description of why moving our body is good for overal health. 
+    - Behind Why Section is small cirkular picture of motivational words.
+    - This section will show users what they can expect on this website, as well as additional sevices in the gym.
+
+![Why section image](assets/images/whysection.webp)
+
+- ### Opening Section
+    - This section contains opening times at weekdays and opening times on weekend.
+    
+![Opening section image](assets/images/openingtimes.webp)
+
+- ### Opening Section
+    - 
+    
+  
+
+
+
+
     
 
-    ![Nav bar image](assets/images/heroimage.webp)
+
+
+
+ 
+
+
+    
+
+  
     
  
     

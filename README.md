@@ -31,7 +31,7 @@ The Redit+Mono font is the main font used on this website. This font was importe
  <details>
     <summary>Mobile Wireframe</summary>
 
-![Mobile Wireframe]()
+![Mobile Wireframe](assets/screenshots/wireframemobil.webp)
  </details>
 
 
@@ -74,10 +74,6 @@ The Redit+Mono font is the main font used on this website. This font was importe
 
 ![Gallery Section images](assets/screenshots/gallery.webp)
 
-
-- ### Sign Up Section
-
-
 ## Testing
 
 ### Validator Testing
@@ -87,7 +83,7 @@ The Redit+Mono font is the main font used on this website. This font was importe
 
 - #### CSS
     - No errors were returned when passing through the W3.org validator.
-    - [W3C Validator Results]
+    - [W3C Validator Results](http://jigsaw.w3.org/css-validator/validator$link)
 
 - #### Accessibility 
 

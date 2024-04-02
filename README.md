@@ -86,7 +86,7 @@ The Redit+Mono font is the main font used on this website. This font was importe
 -Website was tested on diferent browsers with no issues.
 
 ### Fixed Bugs
--
+- Problem that has arisen during the course of the project is the deployment section. The structure of the site was not good at all but it was quickly solved by removing the '/' sign from the code.
 
 ## Technologies
 

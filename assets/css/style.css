@@ -31,7 +31,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
-    background-color: darkslategray;
+    background-color: black;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -40,6 +40,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items:baseline;
+    height: 80px;
 }
 
 header a {
@@ -70,7 +71,7 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
-    top: 100%;
+    top: -6px;
 }
 
 /* Navbar toggle */
@@ -91,7 +92,7 @@ main {
      /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;  
     margin-top: 47px;
-    background-color: darkslategrey;
+    background-color: black;
 }
 
 /* Main content */
@@ -189,7 +190,7 @@ main {
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: darkslategrey;
+    background-color: black;
     font-size: 130%;
     position: absolute;
     bottom: 30px;
@@ -250,7 +251,114 @@ main {
 #photos {
     line-height: 0;
 }
+#menu > li {
+    padding-top: 15px;
+}
 
+
+#benefits{
+  display: flex;
+  width: 90%;
+  flex-direction: row;
+  columns: 2;
+  margin-left: 5%;
+  
+}
+
+#benefits-physical{
+    display: inline;
+}
+
+#Reasons h2{
+    margin-left: 5%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#opening-times h3{
+    margin-left: 7%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.photos{
+    display: block;
+    width: 98%;
+    margin-left: 1%;
+}
+
+.photos img{
+    width: 49%;
+    height: 250px;
+    padding-top: 40px;
+    display: inline;
+}
+
+#opening-times p{
+    margin-left: 9%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+
+#benefits-image{
+    display: flex;
+    justify-content: center;
+}
+
+/* Hero */
+#cover-text {
+    width: 300px;
+    right: 50px;
+    text-align: center;
+}
+
+#cover-text h2 {
+    margin-top: 10px;
+}
+
+#cover-text h3 {
+    margin-top: 15px;
+}
+
+
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#benefits-physical>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+    color: white;
+}
+
+#benefits hr {
+    border-top: 1px solid black;
+    margin: 5px 0;
+}
+
+#circle-cover-bg {
+    background: url('../images/circlepic.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle*/
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
 
 /* Media query: tablets and larger screens (768px and up) */
 @media screen and (min-width: 768px) {
@@ -295,49 +403,13 @@ main {
     #benefits-psysical > div {
         width: 75%;
     }
-}
 
-/* Hero */
-#cover-text {
-    width: 300px;
-    right: 50px;
-}
-
-#reasons {
-    width: 90%;
-    margin: 20px auto;
-}
-
-#reasons h2 {
-    margin-bottom: 20px;
-    text-align: center;
-    font-size: 280%;
-}
-
-#benefits-physical>div {
-    line-height: 20px;
-    margin-bottom: 20px;
-}
-
-#benefits p {
-    padding: 0 20px;
-    color: black;
-}
-
-#benefits hr {
-    border-top: 1px solid black;
-    margin: 5px 0;
-}
-
-#circle-cover-bg {
-    background: url('../images/circlepic.webp') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    /* Makes the square image into a circle*/
-    border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
+    .photos img{
+        width: 24%;
+        height: 250px;
+        padding-top: 40px;
+        display: inline;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
